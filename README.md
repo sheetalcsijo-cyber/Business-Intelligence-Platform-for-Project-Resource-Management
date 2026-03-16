@@ -37,6 +37,7 @@ The system consists of **three main layers**.
 
 ## 1. Data Management Layer
 
+
 A **PostgreSQL relational database** stores structured project data including:
 
 * Employee information
