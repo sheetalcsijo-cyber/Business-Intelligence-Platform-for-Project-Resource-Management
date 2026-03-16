@@ -1,5 +1,6 @@
 # Business Intelligence System for Project Analysis and Resource Management
 
+
 ## Overview
 
 The **Business Intelligence System for Project Analysis and Resource Management** is a data-driven platform designed to help organizations monitor project performance, optimize resource allocation, and identify operational risks through advanced analytics and visualization.
